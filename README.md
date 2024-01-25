@@ -1,5 +1,5 @@
 
-<p align="center"><a href="http://www.boblog.com" target="_blank" rel="noopener noreferrer"><img width="234" src="https://cdn.boblog.com/boblog.png" alt="logo"></a></p>
+<p align="center"><a href="http://www.boblog.com" target="_blank" rel="noopener noreferrer"><img width="234" src="./xxg.jpg" alt="logo"></a></p>
 
 ## 一、项目介绍
 一个完整的博客项目，包含服务端接口API，管理后台，前端网站，前端的项目请点击以下：
